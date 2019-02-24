@@ -1,6 +1,6 @@
 /**
  * @file <stats.c> 
- * @brief <This simple applicatoin performs statistical analytics on a dataset.>
+ * @brief <This simple application performs statistical analytics on a dataset.>
  * @author <Adam Chambers>
  * @date <24 February 2019>
  */
